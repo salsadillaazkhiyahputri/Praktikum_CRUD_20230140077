@@ -51,10 +51,14 @@ Response Body (failed) :
 ```
 
 1. tambah data 
-![tambahdata.png](../../../Users/Lenovo/Pictures/Screenshots/tambahdata.png)
+<img width="1920" height="1080" alt="tambahdata" src="https://github.com/user-attachments/assets/977f02f1-692a-4dda-9ef0-00ef56c80966" />
+
 2. update data
-![updatedata.png](../../../Users/Lenovo/Pictures/Screenshots/updatedata.png)
+<img width="1920" height="1080" alt="updatedata" src="https://github.com/user-attachments/assets/732e6b1d-7dc5-4658-80c7-189fe46872fb" />
+
 3. delete data
-![deletedata.png](../../../Users/Lenovo/Pictures/Screenshots/deletedata.png)
+<img width="1920" height="1080" alt="deletedata" src="https://github.com/user-attachments/assets/3c041c51-285a-404f-bcab-10581e59d9ee" />
+
 4. hasil tambah,delete,update
-![hasill.png](../../../Users/Lenovo/Pictures/Screenshots/hasill.png)
+<img width="1920" height="1080" alt="hasill" src="https://github.com/user-attachments/assets/3cdc8cca-9720-4d11-8233-c27b27debbb6" />
+
